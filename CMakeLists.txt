@@ -704,7 +704,8 @@ set(
     ${CBF__SRC}/cbf_write.c
     ${CBF__SRC}/cbf_write_binary.c
     ${CBF__SRC}/cbf_ws.c
-	${CBF__SRC}/md5c.c
+    ${CBF__SRC}/cbf_minicbf_header.c
+    ${CBF__SRC}/md5c.c
     ${CBF__SRC}/img.c
 )
 
